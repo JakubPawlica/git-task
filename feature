@@ -1,1 +1,1 @@
-conflict 1
+some conflict
